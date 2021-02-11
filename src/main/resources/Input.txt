@@ -1,0 +1,8 @@
+hot_tea,hot_coffee,hot_water
+hot_tea,green_tea,black_tea,random
+black_tea,hot_coffee,hot_milk
+hot_milk,hot_water,random,green_tea
+hot_water,hot_milk,green_tea,hot_coffee
+hot_water,hot_water,hot_milk,green_tea
+hhot_water,hot_tea,hot_coffee,black_coffee
+hot_coffee,hot_coffee,hot_water,hot_milk,black_tea
